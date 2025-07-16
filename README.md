@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chukwuemerie Michael Ani
+# 👋 Hi there, I am Chukwuemerie Michael Ani
 A passionate tech educator, front-end developer, and founder of SkillForge Academy (under Lucid Dreams Innovations), building Africa’s future through digital empowerment.
 
 ## 🛠️ Tech Stack
