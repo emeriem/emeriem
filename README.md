@@ -1,30 +1,59 @@
-# Hi there, I am Chukwuemerie Michael Ani
-A passionate tech educator, front-end developer, and founder of SkillForge Academy (under Lucid Dreams Innovations), building Africa’s future through digital empowerment.
+# Hi, I am Chukwuemerie Michael Ani
 
-## Tech Stack
-- 💻 HTML | CSS | JavaScript
-- 🎨 Figma | UI/UX | Product Design
-- ⚙️ Git | GitHub | VS Code
+Founder of SkillForge Academy — the gateway for emerging tech talent in Africa  
+Based in Enugu, Nigeria | Tech Educator | Front-End Dev | Product Designer  
+Passionate about empowering minds through code, design, and innovation
 
-## Learning
-- ⚛️ React | Node.js | MongoDB
-- 🐍 Python | Data Analysis (Basic)
+---
 
-## Current Focus
-- Leading hands-on digital skills training for young Africans
-- Helping beginners start their tech journey
-- Building business and real estate management systems (Under Plans)
+## 🚀 About Me
 
-## Featured Projects
-- 🔗 [BMS Software](https://github.com/yourrepo) – Business Management System MVP (under construction)
-- 🔗 [Real Estate Manager](https://github.com/yourrepo) (under construction)
-- 🔗 [SkillForge Website](https://github.com/yourrepo) (under construction)
+I'm a software developer, educator, and creative technologist building tools, experiences, and ecosystems for Africa’s digital future. Through **SkillForge Academy**, I train beginners and aspiring professionals in **Web Development, UI/UX Design, Digital Literacy, and more**, with a strong focus on **practical skills, mentorship, and inclusion**.
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=radical)
+When I’m not coding, I’m teaching, designing, or dreaming up the next big idea. I'm also the lead on **Lucid Dreams Innovations**, our umbrella company focused on building smart business software and scalable digital tools.
 
-## 📫 Let’s Connect
-- ✉️ Email: animakumichael@gmail.com
-- 🌐 Website: (under construction)
-- 🔗 LinkedIn: linkedin.com/in/yourprofile
+---
 
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-lightgrey)
+![Figma](https://img.shields.io/badge/Design-Figma-red)
+![HTML](https://img.shields.io/badge/Markup-HTML-orange)
+![CSS](https://img.shields.io/badge/Styling-CSS-blue)
+
+---
+
+## 📊 GitHub Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=emeriem&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emeriem&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=radical)](https://github.com/emeriem)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React & TypeScript
+- Cybersecurity basics
+- Scaling tech training programs
+- Digital business systems (BMS/ERP)
+
+---
+
+## 📬 Let’s Connect
+
+📩 Email: animakumichael@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/emeriem](https://linkedin.com/in/emeriem)  
+📷 Instagram: [@luciddreamsinnovations](https://instagram.com/luciddreamsinnovations)  
+🌐 Website (Coming soon...)
+
+---
+
+> *"Building Africa’s next wave of tech innovators — one learner, one solution at a time."*
