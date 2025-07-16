@@ -17,11 +17,12 @@ When I’m not coding, I’m teaching, designing, or dreaming up the next big id
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![PHP](https://img.shields.io/badge/Backend-PHP-777BB4)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Figma](https://img.shields.io/badge/Design-Figma-red)
 ![HTML](https://img.shields.io/badge/Markup-HTML-orange)
 ![CSS](https://img.shields.io/badge/Styling-CSS-blue)
-
+![Git](https://img.shields.io/badge/VersionControl-Git-orange)
 ---
 
 ## GitHub Stats
