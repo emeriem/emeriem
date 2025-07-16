@@ -6,7 +6,7 @@ Passionate about empowering minds through code, design, and innovation
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a software developer, educator, and creative technologist building tools, experiences, and ecosystems for Africa’s digital future. Through **SkillForge Academy**, I train beginners and aspiring professionals in **Web Development, UI/UX Design, Digital Literacy, and more**, with a strong focus on **practical skills, mentorship, and inclusion**.
 
@@ -14,11 +14,9 @@ When I’m not coding, I’m teaching, designing, or dreaming up the next big id
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![React](https://img.shields.io/badge/Framework-React-blue)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Figma](https://img.shields.io/badge/Design-Figma-red)
 ![HTML](https://img.shields.io/badge/Markup-HTML-orange)
@@ -26,7 +24,7 @@ When I’m not coding, I’m teaching, designing, or dreaming up the next big id
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=emeriem&color=blue)
 
@@ -38,16 +36,16 @@ When I’m not coding, I’m teaching, designing, or dreaming up the next big id
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Advanced React & TypeScript
+- React & TypeScript
 - Cybersecurity basics
 - Scaling tech training programs
 - Digital business systems (BMS/ERP)
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 📩 Email: animakumichael@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/emeriem](https://linkedin.com/in/emeriem)  
