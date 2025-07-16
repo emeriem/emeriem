@@ -47,10 +47,10 @@ When I’m not coding, I’m teaching, designing, or dreaming up the next big id
 
 ## Let’s Connect
 
-📩 Email: animakumichael@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/emeriem](https://linkedin.com/in/emeriem)  
-Instagram: [@your_instagram_handle](https://instagram.com/your_instagram_handle) 
-🌐 Website (Coming soon...)
+Email: animakumichael@gmail.com  
+LinkedIn: [linkedin.com/in/emeriem](https://linkedin.com/in/emeriem)  
+Instagram: [@animaku_michael](https://www.instagram.com/animaku_michael/)  
+Website (Coming soon...)
 
 ---
 
