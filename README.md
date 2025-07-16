@@ -19,7 +19,7 @@ When I’m not coding, I’m teaching, designing, or dreaming up the next big id
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-lightgrey)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Figma](https://img.shields.io/badge/Design-Figma-red)
 ![HTML](https://img.shields.io/badge/Markup-HTML-orange)
 ![CSS](https://img.shields.io/badge/Styling-CSS-blue)
