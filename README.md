@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Chukwuemerie Michael Ani
+A passionate tech educator, front-end developer, and founder of SkillForge Academy (under Lucid Dreams Innovations), building Africa’s future through digital empowerment.
 
-<!--
-**emeriem/emeriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- 💻 HTML | CSS | JavaScript
+- 🎨 Figma | UI/UX | Product Design
+- ⚙️ Git | GitHub | VS Code
 
-Here are some ideas to get you started:
+## Learning
+- ⚛️ React | Node.js | MongoDB
+- 🐍 Python | Data Analysis (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Leading hands-on digital skills training for young Africans
+- Helping beginners start their tech journey
+- Building business and real estate management systems (Under Plans)
+
+## 📂 Featured Projects
+- 🔗 [BMS Software](https://github.com/yourrepo) – Business Management System MVP (under construction)
+- 🔗 [Real Estate Manager](https://github.com/yourrepo) (under construction)
+- 🔗 [SkillForge Website](https://github.com/yourrepo) (under construction)
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=radical)
+
+## 📫 Let’s Connect
+- ✉️ Email: animakumichael@gmail.com
+- 🌐 Website: (under construction)
+- 🔗 LinkedIn: linkedin.com/in/yourprofile
+
