@@ -49,7 +49,7 @@ When I’m not coding, I’m teaching, designing, or dreaming up the next big id
 
 📩 Email: animakumichael@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/emeriem](https://linkedin.com/in/emeriem)  
-📷 Instagram: [@luciddreamsinnovations](https://instagram.com/luciddreamsinnovations)  
+Instagram: [@your_instagram_handle](https://instagram.com/your_instagram_handle) 
 🌐 Website (Coming soon...)
 
 ---
