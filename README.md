@@ -1,6 +1,6 @@
 # Hi, I am Chukwuemerie Michael Ani
 
-Founder of SkillForge Academy — the gateway for emerging tech talent in Africa  
+Founder of SkillForge Academy - the gateway for emerging tech talent in Africa  
 Based in Enugu, Nigeria | Tech Educator | Front-End Dev | Product Designer  
 Passionate about empowering minds through code, design, and innovation
 
