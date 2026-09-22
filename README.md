@@ -1,58 +1,47 @@
-# Hi, I am Chukwuemerie Michael Ani
+# Hi, I'm Chukwuemerie Michael Ani 👋
 
-Founder of SkillForge Academy - the gateway for emerging tech talent in Africa  
-Based in Enugu, Nigeria | Tech Educator | Front-End Dev | Product Designer  
-Passionate about empowering minds through code, design, and innovation
+**Multi-disciplinary technology professional** — currently building hands-on 
+**cybersecurity skills** while working across product, development, and 
+programme management.
 
----
-
-## About Me
-
-I'm a software developer, educator, and creative technologist building tools, experiences, and ecosystems for Africa’s digital future. Through **SkillForge Academy**, I train beginners and aspiring professionals in **Web Development, UI/UX Design, Digital Literacy, and more**, with a strong focus on **practical skills, mentorship, and inclusion**.
-
-When I’m not coding, I’m teaching, designing, or dreaming up the next big idea. I'm also the lead on **Lucid Dreams Innovations**, our umbrella company focused on building smart business software and scalable digital tools.
+📍 Enugu, Nigeria &nbsp;|&nbsp; 🌐 [Portfolio](https://emeriem.github.io/simple-portfolio-site/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/emeriem)
 
 ---
 
-## Tech Stack
+## 🔐 Currently: Cybersecurity Journey
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![PHP](https://img.shields.io/badge/Backend-PHP-777BB4)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![Figma](https://img.shields.io/badge/Design-Figma-red)
-![HTML](https://img.shields.io/badge/Markup-HTML-orange)
-![CSS](https://img.shields.io/badge/Styling-CSS-blue)
-![Git](https://img.shields.io/badge/VersionControl-Git-orange)
----
+Training with **Tech4Youth's Advanced ICT Skills Programme** (Cybersecurity track). 
+Building foundations hands-on — not just theory.
 
-## GitHub Stats
+- 🧪 Home lab: Kali Linux + Metasploitable2 (VirtualBox)
+- 📖 Core focus right now: CIA Triad, risk fundamentals, access control, Linux system administration
+- 📂 Documenting every task as I go → [cybersecurity-training](https://github.com/emeriem/cybersecurity-training)
+- 🧭 Exploring broadly across offensive, defensive, and GRC before specializing
 
-![Profile views](https://komarev.com/ghpvc/?username=emeriem&color=blue)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=emeriem&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=radical)](https://github.com/emeriem)
+`Kali Linux` `Nmap` `Linux CLI` `VirtualBox` `Git`
 
 ---
 
-## Currently Learning
+## 💻 Also Building In
 
-- React & TypeScript
-- Cybersecurity basics
-- Scaling tech training programs
-- Digital business systems (BMS/ERP)
+**Web & Product:** HTML, CSS, JavaScript, PHP, MySQL, Figma (UI/UX)  
+**Programme & Operations:** Technology programme management, curriculum design, 
+mentorship — currently Project Manager at Enugu SME Centre (ETTP)
 
----
-
-## Let’s Connect
-
-Email: animakumichael@gmail.com  
-LinkedIn: [linkedin.com/in/emeriem](https://linkedin.com/in/emeriem)  
-Instagram: [@animaku_michael](https://www.instagram.com/animaku_michael/)  
-Website (Coming soon...)
+Full professional background, ventures (Urban Life Co., SkillForge Academy), 
+and detailed experience → see my [Portfolio](https://emeriem.github.io/simple-portfolio-site/)
 
 ---
 
-> *"Building Africa’s next wave of tech innovators — one learner, one solution at a time."*
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## 🤝 Reach Me
+
+📧 [animakumichael@gmail.com](mailto:animakumichael@gmail.com) &nbsp;|&nbsp; 
+💼 [LinkedIn](https://linkedin.com/in/emeriem) &nbsp;|&nbsp; 
+📸 [Instagram](https://www.instagram.com/animaku_michael/)
