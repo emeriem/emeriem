@@ -36,7 +36,6 @@ and detailed experience → see my [Portfolio](https://emeriem.github.io/simple-
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=transparent&hide_border=true)
 
