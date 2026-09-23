@@ -118,8 +118,8 @@ My work sits at the intersection of **technology, product design, education, man
 
 ![Profile views](https://komarev.com/ghpvc/?username=emeriem&color=F59E0B)
 
-<img src="https://github-stats-extended.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=transparent&hide_border=true" width="38%" />
+<img src="https://github-stats-extended.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true" width="45%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=transparent&hide_border=true" width="45%" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emeriem&theme=transparent)](https://git.io/streak-stats)
 
@@ -144,7 +144,9 @@ My work sits at the intersection of **technology, product design, education, man
 
 </div>
 
----
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:1E1B4B&height=120&section=footer)
 
 <div align="center">
 
