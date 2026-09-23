@@ -7,9 +7,9 @@
 
 **Multi-disciplinary technology professional currently building hands-on cybersecurity skills while working across technology, product, education, and programme management.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emeriem.github.io/simple-portfolio-site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emeriem.github.io/simple-portfolio-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ani-08088a437/)
-[![Location](https://img.shields.io/badge/Enugu%2C_Nigeria-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Enugu%2C_Nigeria-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 I build digital products, manage technology programmes, teach practical technology skills, and develop ventures and communities around ideas that create value.
 
@@ -17,7 +17,7 @@ I build digital products, manage technology programmes, teach practical technolo
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Currently: Cybersecurity Journey - In Progress
+## <img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;Currently: Cybersecurity Journey - In Progress
 
 Currently developing hands-on cybersecurity skills through Tech4Youth's Advanced
 ICT Skills Programme, approaching it the same way I approach everything: practically,
@@ -37,44 +37,51 @@ not just theoretically.
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi/account-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;About Me
+## <img src="https://api.iconify.design/mdi/account-outline.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;About Me
 
 My work sits at the intersection of **technology, product design, education, management, and entrepreneurship** - combining technical skills with design, strategy, and execution to turn ideas into useful products, systems, programmes, and communities.
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Professional Experience
+## <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;Professional Experience
 
 **Project Manager, Technology Programme** - Enugu SME Centre &nbsp;·&nbsp; *2026 - Present*
-&nbsp;&nbsp;&nbsp;&nbsp;Implementation and management of the Enugu Technology Training Programme (ETTP) - programme operations, stakeholder coordination, monitoring & evaluation, and reporting.
+
+> Implementation and management of the Enugu Technology Training Programme (ETTP) - programme operations, stakeholder coordination, monitoring & evaluation, and reporting.
 
 **Branch Manager · Product Design & Web Development Tutor** - Digital Dreams ICT Academy
-&nbsp;&nbsp;&nbsp;&nbsp;Combined branch operations with hands-on instruction in Product Design and Web Development. Mentored **100+ learners**.
+
+> Combined branch operations with hands-on instruction in Product Design and Web Development. Mentored **100+ learners**.
 
 **Monitoring & Evaluation Assistant** - Connect to Humanity Foundation
-&nbsp;&nbsp;&nbsp;&nbsp;Programme data collection, tracking, documentation, and reporting.
+
+> Programme data collection, tracking, documentation, and reporting.
 
 [View full experience -&gt;](https://emeriem.github.io/simple-portfolio-site/)
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Ventures & Projects
+## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;Ventures & Projects
 
 **SkillForge Academy / SkillForge Innovations** - *Founder*
-&nbsp;&nbsp;&nbsp;&nbsp;Technology education initiative teaching Web Development, UI/UX & Product Design, and Digital Literacy - practical skills, mentorship, and inclusion at the core.
+
+> Technology education initiative teaching Web Development, UI/UX & Product Design, and Digital Literacy - practical skills, mentorship, and inclusion at the core.
 
 **Urban Life Co.** - *Founder / Venture Builder*
-&nbsp;&nbsp;&nbsp;&nbsp;Umbrella brand for lifestyle, wellness, and community ventures. *"Live. Connect. Explore."*
+
+> Umbrella brand for lifestyle, wellness, and community ventures. "Live. Connect. Explore."
 
 **Urban Hikers** - *Founder*
-&nbsp;&nbsp;&nbsp;&nbsp;Premium outdoor lifestyle community under Urban Life Co - adventure, wellness, travel, networking, personal growth.
+
+> Premium outdoor lifestyle community under Urban Life Co - adventure, wellness, travel, networking, personal growth.
 
 **Urban Fitness** - *Founder / Venture Development*
-&nbsp;&nbsp;&nbsp;&nbsp;Movement and wellness community, also within the Urban Life Co. ecosystem.
+
+> Movement and wellness community, also within the Urban Life Co. ecosystem.
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi/code-tags.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Tech Stack
+## <img src="https://api.iconify.design/mdi/code-tags.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;Tech Stack
 
 **Development**
 <p align="left">
@@ -94,7 +101,7 @@ My work sits at the intersection of **technology, product design, education, man
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi/book-open-page-variant-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Currently Learning
+## <img src="https://api.iconify.design/mdi/book-open-page-variant-outline.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;Currently Learning
 
 - React & TypeScript
 - AI and emerging technology
@@ -105,11 +112,11 @@ My work sits at the intersection of **technology, product design, education, man
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;GitHub Stats
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;GitHub Stats
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=emeriem&color=2563EB)
+![Profile views](https://komarev.com/ghpvc/?username=emeriem&color=F59E0B)
 
 <img src="https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=transparent&hide_border=true" width="38%" />
@@ -124,17 +131,16 @@ My work sits at the intersection of **technology, product design, education, man
 
 </div>
 
-
 <br/>
 
-## <img src="https://api.iconify.design/mdi/account-network-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Let's Connect
+## <img src="https://api.iconify.design/mdi/account-network-outline.svg?color=%23F59E0B" width="24" height="24" style="vertical-align:middle"/> &nbsp;Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animakumichael@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ani-08088a437/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/animaku_michael/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emeriem.github.io/simple-portfolio-site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emeriem.github.io/simple-portfolio-site/)
 
 </div>
 
