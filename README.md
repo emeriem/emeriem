@@ -1,8 +1,9 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=200&section=header&text=Chukwuemerie%20Michael%20Ani&fontSize=40&fontColor=ffffff&desc=Technology%20%7C%20Product%20%7C%20Education%20%7C%20Programme%20Management&descSize=16&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F59E0B&height=200&section=header&text=Chukwuemerie%20Michael%20Ani&fontSize=40&fontColor=ffffff&desc=Technology%20%7C%20Product%20%7C%20Education%20%7C%20Programme%20Management&descSize=16&descAlignY=65)
 
 # Hi, I am Chukwuemerie Michael Ani
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Cybersecurity+Trainee;Tech+Educator+%26+Front-End+Dev;Product+Designer;Programme+Manager;Founder%2C+SkillForge+Academy)
 
 **Multi-disciplinary technology professional currently building hands-on cybersecurity skills while working across technology, product, education, and programme management.**
 
