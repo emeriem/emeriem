@@ -1,48 +1,141 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0EA5E9&height=200&section=header&text=Chukwuemerie%20Michael%20Ani&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20Trainee%20%7C%20Multi-Disciplinary%20Tech%20Professional&descSize=18&descAlignY=65)
-# Hi, I am Chukwuemerie Michael Ani 👋
+<div align="center">
 
-**Multi-disciplinary technology professional** — currently building hands-on 
-**cybersecurity skills** while working across product, development, and 
-programme management.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=200&section=header&text=Chukwuemerie%20Michael%20Ani&fontSize=40&fontColor=ffffff&desc=Technology%20%7C%20Product%20%7C%20Education%20%7C%20Programme%20Management&descSize=16&descAlignY=65)
 
-📍 Enugu, Nigeria &nbsp;|&nbsp; 🌐 [Portfolio](https://emeriem.github.io/simple-portfolio-site/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/emeriem)
+# Hi, I am Chukwuemerie Michael Ani
+
+**Multi-disciplinary technology professional currently building hands-on cybersecurity skills while working across technology, product, education, and programme management.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emeriem.github.io/simple-portfolio-site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ani-08088a437/)
+[![Location](https://img.shields.io/badge/Enugu%2C_Nigeria-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+I build digital products, manage technology programmes, teach practical technology skills, and develop ventures and communities around ideas that create value.
+
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Currently: Cybersecurity Journey - In Progress
+
+Currently developing hands-on cybersecurity skills through Tech4Youth's Advanced
+ICT Skills Programme, approaching it the same way I approach everything: practically,
+not just theoretically.
+
+**Current focus:** `Linux Administration` · `CIA Triad` · `Risk Fundamentals` · `Access Control` · `Networking Fundamentals` · `Practical Lab Work`
+
+- **Home lab:** Kali Linux + Metasploitable2 (VirtualBox)
+- **Documenting every task as I go -** [cybersecurity-training repository](https://github.com/emeriem/cybersecurity-training)
+- **Exploring broadly** across offensive, defensive, and GRC before specializing
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
+</p>
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/account-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;About Me
+
+My work sits at the intersection of **technology, product design, education, management, and entrepreneurship** - combining technical skills with design, strategy, and execution to turn ideas into useful products, systems, programmes, and communities.
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Professional Experience
+
+**Project Manager, Technology Programme** - Enugu SME Centre &nbsp;·&nbsp; *2026 - Present*
+&nbsp;&nbsp;&nbsp;&nbsp;Implementation and management of the Enugu Technology Training Programme (ETTP) - programme operations, stakeholder coordination, monitoring & evaluation, and reporting.
+
+**Branch Manager · Product Design & Web Development Tutor** - Digital Dreams ICT Academy
+&nbsp;&nbsp;&nbsp;&nbsp;Combined branch operations with hands-on instruction in Product Design and Web Development. Mentored **100+ learners**.
+
+**Monitoring & Evaluation Assistant** - Connect to Humanity Foundation
+&nbsp;&nbsp;&nbsp;&nbsp;Programme data collection, tracking, documentation, and reporting.
+
+[View full experience -&gt;](https://emeriem.github.io/simple-portfolio-site/)
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Ventures & Projects
+
+**SkillForge Academy / SkillForge Innovations** - *Founder*
+&nbsp;&nbsp;&nbsp;&nbsp;Technology education initiative teaching Web Development, UI/UX & Product Design, and Digital Literacy - practical skills, mentorship, and inclusion at the core.
+
+**Urban Life Co.** - *Founder / Venture Builder*
+&nbsp;&nbsp;&nbsp;&nbsp;Umbrella brand for lifestyle, wellness, and community ventures. *"Live. Connect. Explore."*
+
+**Urban Hikers** - *Founder*
+&nbsp;&nbsp;&nbsp;&nbsp;Premium outdoor lifestyle community under Urban Life Co - adventure, wellness, travel, networking, personal growth.
+
+**Urban Fitness** - *Founder / Venture Development*
+&nbsp;&nbsp;&nbsp;&nbsp;Movement and wellness community, also within the Urban Life Co. ecosystem.
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/code-tags.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Tech Stack
+
+**Development**
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Design & Collaboration**
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/book-open-page-variant-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Currently Learning
+
+- React & TypeScript
+- AI and emerging technology
+- Digital business systems (BMS / ERP)
+- Scalable technology education
+
+*(Cybersecurity progress tracked in the dedicated section above)*
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;GitHub Stats
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=emeriem&color=2563EB)
+
+<img src="https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=transparent&hide_border=true" width="38%" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emeriem&theme=transparent)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/account-network-outline.svg?color=%232563EB" width="24" height="24" style="vertical-align:middle"/> &nbsp;Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animakumichael@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ani-08088a437/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/animaku_michael/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emeriem.github.io/simple-portfolio-site/)
+
+</div>
 
 ---
 
-## 🔐 Currently: Cybersecurity Journey
+<div align="center">
 
-Training with **Tech4Youth's Advanced ICT Skills Programme** (Cybersecurity track). 
-Building foundations hands-on — not just theory.
+**Technology. Product. Education. Leadership.**
 
-- 🧪 Home lab: Kali Linux + Metasploitable2 (VirtualBox)
-- 📖 Core focus right now: CIA Triad, risk fundamentals, access control, Linux system administration
-- 📂 Documenting every task as I go → [cybersecurity-training](https://github.com/emeriem/cybersecurity-training)
-- 🧭 Exploring broadly across offensive, defensive, and GRC before specializing
+*Building useful things, developing people, and turning ideas into reality.*
 
-`Kali Linux` `Nmap` `Linux CLI` `VirtualBox` `Git`
-
----
-
-## 💻 Also Building In
-
-**Web & Product:** HTML, CSS, JavaScript, PHP, MySQL, Figma (UI/UX)  
-**Programme & Operations:** Technology programme management, curriculum design, 
-mentorship — currently Project Manager at Enugu SME Centre (ETTP)
-
-Full professional background, ventures (Urban Life Co., SkillForge Academy), 
-and detailed experience → see my [Portfolio](https://emeriem.github.io/simple-portfolio-site/)
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emeriem&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emeriem&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## 🤝 Reach Me
-
-📧 [animakumichael@gmail.com](mailto:animakumichael@gmail.com) &nbsp;|&nbsp; 
-💼 [LinkedIn](https://linkedin.com/in/emeriem) &nbsp;|&nbsp; 
-📸 [Instagram](https://www.instagram.com/animaku_michael/)
+</div>
