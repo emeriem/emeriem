@@ -116,7 +116,14 @@ My work sits at the intersection of **technology, product design, education, man
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emeriem&theme=transparent)](https://git.io/streak-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emeriem/emeriem/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emeriem/emeriem/output/dist/snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/emeriem/emeriem/output/dist/snake.svg" />
+</picture>
+
 </div>
+
 
 <br/>
 
@@ -140,9 +147,3 @@ My work sits at the intersection of **technology, product design, education, man
 *Building useful things, developing people, and turning ideas into reality.*
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emeriem/emeriem/output/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emeriem/emeriem/output/dist/snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/emeriem/emeriem/output/dist/snake.svg" />
-</picture>
